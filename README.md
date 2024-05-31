@@ -4,4 +4,4 @@ Hi! This is # zerotoheroNLP
 
 About us
 =======
-herotozeroNLP is consist of two English Language Teaching Students who are interested in AI,Prompt Engineering, Linguistic and Language learning-teaching. Our story started via TEKNOFEST 2024 NLP contest but we are going to create and contribute with the projects. Expect us !
+The herotozeroNLP team consists of two English Language Teaching students, Yener and Baris, who are interested in Artificial Intelligence (AI), Prompt Engineering, Linguistics, and Language Teaching-Learning. They began their collaboration by establishing a digital store that sells digital products. Our story started with the TEKNOFEST 2024 NLP Contest, but we are planning to create and contribute to various projects. Expect us! 

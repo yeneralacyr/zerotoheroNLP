@@ -4,4 +4,4 @@ Hi! This is # zerotoheroNLP
 
 About us
 =======
-herotozeroNLP is consist of two English Language Teaching Students who are interested in AI, Linguistic and Language learning-teaching. Our story started via TEKNOFEST 2024 NLP contest but we are going to create and contribute with the projects. Expect us !
+herotozeroNLP is consist of two English Language Teaching Students who are interested in AI,Prompt Engineering, Linguistic and Language learning-teaching. Our story started via TEKNOFEST 2024 NLP contest but we are going to create and contribute with the projects. Expect us !
